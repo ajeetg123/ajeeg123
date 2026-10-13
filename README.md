@@ -6,7 +6,7 @@ I bridge **executive business strategy and hands-on technology
 leadership** to turn complex business challenges into secure, scalable
 AI and digital solutions---with measurable outcomes.
 
-With **20+ years of experience** in enterprise technology, AI/ML, cloud
+With **15+ years of experience** in enterprise technology, AI/ML, cloud
 modernization, and large-scale transformation, I have led strategic
 portfolios, partnered across engineering and business organizations, and
 delivered significant operational and financial impact.
